@@ -1,4 +1,3 @@
-import meImage from '../assets/Picture/Me2.jpg';
 
 const Home = () => {
   return (
